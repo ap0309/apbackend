@@ -1,5 +1,5 @@
 
-# 🧩 apbackend
+# 🧩 apbackend (Learning backend)
 
 A simple full-stack project built with **Express.js** for the backend and **React** (via Vite) for the frontend. This project demonstrates how to create a basic API and fetch/display data in a frontend application using Axios.
 
