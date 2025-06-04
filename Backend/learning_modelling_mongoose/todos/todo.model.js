@@ -24,7 +24,6 @@ const todoSchema = new mongoose.Schema
     ] // array of subtodos
 
   },{timestamps : True}
-  // learning moongose is fun
 );
 
 export const todo = mongoose.model("todo" , todoSchema);
