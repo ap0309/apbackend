@@ -23,7 +23,7 @@ const todoSchema = new mongoose.Schema
       }
     ] // array of subtodos
 
-  },{timestamps : True}
+  },{timestamps : True}//ok
 );
 
 export const todo = mongoose.model("todo" , todoSchema);
